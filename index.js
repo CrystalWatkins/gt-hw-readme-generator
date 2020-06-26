@@ -66,7 +66,7 @@ const questions = [
             },
             {
                 name: "IBM License",
-               value: { 
+                value: { 
                    badge: "[![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)",
                    description: "This site contains IBM's License Information (LI) documents, which provide information and any additional terms specific to a Program which applies to certain software announced or released after May, 1999. The Programs listed in the LI are licensed under those LI terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, either the International Program License Agreement or the International License Agreement for Non-Warranted Programs as identified in the LI applies. These documents are for your reference and viewing convenience. They are normally provided with IBM software in hardcopy form, on a CD, or are embedded in the software in softcopy form for acceptance prior to installation or first use of the software.",
                },
@@ -85,17 +85,4 @@ inquirer.prompt(questions).then(answers => {
        console.log("Wrote the file");
    })
 })
-
-
-// // function to write README file
-// function writeToFile(fileName, data) {
-// }
-
-// // function to initialize program
-// function init() {
-// // use the inquirer package
-// }
-
-// // function call to initialize program
-// init();
 

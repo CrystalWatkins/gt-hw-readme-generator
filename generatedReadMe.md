@@ -1,9 +1,9 @@
-# Read me generator 
+# ReadMe Generator 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
   
-  lots of description here
+  This is my amazing readme generator project. Lots more description here...
 
   ## Table of Contents
   
@@ -16,11 +16,11 @@
   
   ## Installation
  
-  none  
+  Download repo and install  
 
   ## Usage 
  
-  none
+  Being able to create a read me using node.js
   
   ## License
   
@@ -28,13 +28,13 @@
   
   ## Contributing
 
-  no one
+  no
   
   ## Tests
-  no tests
+  no
 
   ## Questions
 
   For any additional questions, please reach out to me at my 
-  email account: crystal@gmail.com. To see the additional work
-  that I have created, please visit me at http://github.com/crystal.
+  email account: crystalwatkins428@gmail.com. To see the additional work
+  that I have created, please visit me at http://github.com/crystalwatkins.
